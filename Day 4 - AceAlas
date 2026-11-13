@@ -52,6 +52,38 @@ ip radius source vlan 1
 aaa authorization exec default group radius
 aaa authentication login default group radius local
 line vty 0 14
+
+New Fortinet Creds:
+IP add: 192.168.1.99/24
+UN: admin
+PW: (press enter)
+New PW: pass
+Confirm PW: pass
+------------------------------------------------------------------------
+PornSites:
+
+pornhub.com - 66.254.114.41
+onlyfans.com - 162.159.140.146
+beeg.com - 104.21.56.86
+         - 172.67.181.179
+faketaxi.com - 66.254.114.234
+sulasok.tv - 104.21.34.102
+bangbus.com - 66.254.114.234
+xvideos.com - 89.222.127.12
+            - 89.222.127.9
+pinayflix.com - 104.21.55.88
+              - 172.67.1476.93
+vivamax.com - 64.98.135.95
+brazzers.com - 66.254.114.234
+digitalplayground.com - 66.254.114.234
+bangbros.com - 66.254.114.234
+
+66.254.114.0 /24
+104.21.0.0 /16
+172.67.0.0 /16
+104.18.29.44 /32
+89.222.127.0 /24
+162.159.140.146 /32
 login authentication default
 end
 
